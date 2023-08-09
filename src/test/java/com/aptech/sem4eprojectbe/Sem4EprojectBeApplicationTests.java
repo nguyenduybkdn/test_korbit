@@ -10,4 +10,8 @@ class Sem4EprojectBeApplicationTests {
 	void contextLoads() {
 	}
 
+void contextLoads1() {
+	}
+	void contextLoads2() {
+	}
 }
